@@ -3,7 +3,7 @@
 ### HTML
 - HTML5新增了哪些内容或API
 - [input 和 textarea 的区别](https://github.com/seabornlee/frontend-interview/blob/master/basics/html/input%20%E5%92%8C%20textarea%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
-- 用一个div模拟textarea的实现
+- [用一个div模拟textarea的实现](https://github.com/seabornlee/frontend-interview/blob/master/basics/html/%E7%94%A8%E4%B8%80%E4%B8%AAdiv%E6%A8%A1%E6%8B%9Ftextarea%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
 - 忽略页面中的电话号码
 ### CSS
 - 布局

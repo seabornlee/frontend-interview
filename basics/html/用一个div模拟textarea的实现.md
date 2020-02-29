@@ -13,10 +13,4 @@ textarea 通过 `cols` 和 `rows` 控制显示，内容超出时会显示滚动�
 2. 默认高度只有一行文本的高度，并且不像输入框。需要添加样式 `min-height` 使其拥有默认的高度；
 3. 要用 `innerText` 而不是 `innerHTML` 来获取输入的内容，因为输入回车时，实际上 DOM 里是生成了 `div` 节点，可以自己试一下。
 
-<iframe
-     src="https://codesandbox.io/embed/suspicious-frog-dfquv?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="suspicious-frog-dfquv"
-     allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb"
-     sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
-
+[![Edit suspicious-frog-dfquv](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/suspicious-frog-dfquv?fontsize=14&hidenavigation=1&theme=dark)
