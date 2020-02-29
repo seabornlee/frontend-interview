@@ -2,7 +2,7 @@
 ## 基础
 ### HTML
 - HTML5新增了哪些内容或API
-- input 和 textarea 的区别
+- [input 和 textarea 的区别](./basics/html/input 和 textarea 的区别.md)
 - 用一个div模拟textarea的实现
 - 忽略页面中的电话号码
 ### CSS
