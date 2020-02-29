@@ -1,7 +1,5 @@
 * input type='text' 是单行的输入框
-> <input type='text' value='Hello World!' />
 * textarea 是多行输入框
-> <textarea>Hello  World!</textarea>
 - - - - - 
 * input 有各种 type：text，number，email，radio，checkbox 等
 * textarea 只能输入文字
